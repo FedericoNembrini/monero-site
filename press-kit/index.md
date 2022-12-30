@@ -119,7 +119,7 @@ permalink: /press-kit/index.html
   <div class="info-block">
     <h2>{% t press-kit.pressdoc %}</h2>
     <div>
-        <h3><a href="https://www.monerooutreach.org/quick-facts.html">{% t press-kit.quickfacts %}</a></h3>
+        <h3><a href="https://www.monerooutreach.org/quick-facts.html" target="_blank">{% t press-kit.quickfacts %}</a></h3>
         <p>{% t press-kit.quickfactsp %}</p>
     </div>
   </div>
@@ -127,15 +127,15 @@ permalink: /press-kit/index.html
   <div class="info-block">
     <h2>{% t press-kit.marketing %}</h2>
     <div>
-      <h3><a href="https://github.com/monero-ecosystem/dont-buy-monero-sticker">{% t press-kit.dontbuysticker %}</a></h3>
+      <h3><a href="https://github.com/monero-ecosystem/dont-buy-monero-sticker" target="_blank">{% t press-kit.dontbuysticker %}</a></h3>
       <p>{% t press-kit.dontbuystickerp %}</p>
     </div>
     <div>
-      <h3><a href="https://www.monerooutreach.org/guerrilla-toolkit.html">{% t press-kit.guerrillakit %}</a></h3>
+      <h3><a href="https://www.monerooutreach.org/guerrilla-toolkit.html" target="_blank">{% t press-kit.guerrillakit %}</a></h3>
       <p>{% t press-kit.guerrillakitp %}</p>
     </div>
     <div>
-      <h3><a href="https://www.themonera.art/2017/09/22/monero-promotional-graphics-badges-and-stickers-for-websites/">{% t press-kit.promographics %}</a></h3>
+      <h3><a href="https://www.themonera.art/2017/09/22/monero-promotional-graphics-badges-and-stickers-for-websites/" target="_blank">{% t press-kit.promographics %}</a></h3>
       <p>{% t press-kit.promographicsp %}</p>
     </div>
   </div>
